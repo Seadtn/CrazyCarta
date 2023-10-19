@@ -28,7 +28,7 @@ function Cards() {
       <div className="flex justify-center underline underline-offset-8 text-sm sm:text-2xl">
         <a className="text-center text-black  mb-5 ">TOUT&nbsp;&nbsp;&nbsp;</a>
         <a className=" text-center text-gray-400  mb-5 ">
-          &nbsp;&nbsp;&nbsp;🚀 TRANDING&nbsp;
+          &nbsp;&nbsp;&nbsp;🚀 TRENDING&nbsp;
         </a>
         <a className="text-center text-gray-400  mb-5 ">
           &nbsp;&nbsp;&nbsp;NOUVELLE COLLECTION{" "}
