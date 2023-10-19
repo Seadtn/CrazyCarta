@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/crazycarta/static/css/main.84c41edd.css",
+    "main.js": "/crazycarta/static/js/main.5c31a285.js",
+    "static/js/787.16022436.chunk.js": "/crazycarta/static/js/787.16022436.chunk.js",
+    "static/media/vid.mp4": "/crazycarta/static/media/vid.e66c68ee3cd24b7bfe61.mp4",
+    "static/media/1.jpg": "/crazycarta/static/media/1.4dd76d4312720aac4e2b.jpg",
+    "static/media/02.png": "/crazycarta/static/media/02.9b66409f2f33014a3f6c.png",
+    "static/media/back.webp": "/crazycarta/static/media/back.787d09a875cc7022e814.webp",
+    "static/media/logo.png": "/crazycarta/static/media/logo.49b505810565fc122796.png",
+    "static/media/slick.svg": "/crazycarta/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/crazycarta/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/crazycarta/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/crazycarta/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/logo-tiktok-svgrepo-com.svg": "/crazycarta/static/media/logo-tiktok-svgrepo-com.9bcefdd730f97dd7af35164ceea86466.svg",
+    "index.html": "/crazycarta/index.html",
+    "main.84c41edd.css.map": "/crazycarta/static/css/main.84c41edd.css.map",
+    "main.5c31a285.js.map": "/crazycarta/static/js/main.5c31a285.js.map",
+    "787.16022436.chunk.js.map": "/crazycarta/static/js/787.16022436.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84c41edd.css",
+    "static/js/main.5c31a285.js"
+  ]
+}
