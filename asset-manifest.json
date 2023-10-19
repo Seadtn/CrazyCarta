@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/crazycarta/static/css/main.84c41edd.css",
-    "main.js": "/crazycarta/static/js/main.5c31a285.js",
+    "main.js": "/crazycarta/static/js/main.4d28ad2e.js",
     "static/js/787.16022436.chunk.js": "/crazycarta/static/js/787.16022436.chunk.js",
     "static/media/vid.mp4": "/crazycarta/static/media/vid.e66c68ee3cd24b7bfe61.mp4",
     "static/media/1.jpg": "/crazycarta/static/media/1.4dd76d4312720aac4e2b.jpg",
@@ -15,11 +15,11 @@
     "static/media/logo-tiktok-svgrepo-com.svg": "/crazycarta/static/media/logo-tiktok-svgrepo-com.9bcefdd730f97dd7af35164ceea86466.svg",
     "index.html": "/crazycarta/index.html",
     "main.84c41edd.css.map": "/crazycarta/static/css/main.84c41edd.css.map",
-    "main.5c31a285.js.map": "/crazycarta/static/js/main.5c31a285.js.map",
+    "main.4d28ad2e.js.map": "/crazycarta/static/js/main.4d28ad2e.js.map",
     "787.16022436.chunk.js.map": "/crazycarta/static/js/787.16022436.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.84c41edd.css",
-    "static/js/main.5c31a285.js"
+    "static/js/main.4d28ad2e.js"
   ]
 }
