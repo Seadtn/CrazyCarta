@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/CrazyCarta/static/css/main.9675bd54.css",
-    "main.js": "/CrazyCarta/static/js/main.1881b891.js",
+    "main.js": "/CrazyCarta/static/js/main.0a4bf849.js",
     "static/js/787.16022436.chunk.js": "/CrazyCarta/static/js/787.16022436.chunk.js",
     "static/media/vid.mp4": "/CrazyCarta/static/media/vid.e66c68ee3cd24b7bfe61.mp4",
     "static/media/1.jpg": "/CrazyCarta/static/media/1.4dd76d4312720aac4e2b.jpg",
@@ -15,11 +15,11 @@
     "static/media/logo-tiktok-svgrepo-com.svg": "/CrazyCarta/static/media/logo-tiktok-svgrepo-com.9bcefdd730f97dd7af35164ceea86466.svg",
     "index.html": "/CrazyCarta/index.html",
     "main.9675bd54.css.map": "/CrazyCarta/static/css/main.9675bd54.css.map",
-    "main.1881b891.js.map": "/CrazyCarta/static/js/main.1881b891.js.map",
+    "main.0a4bf849.js.map": "/CrazyCarta/static/js/main.0a4bf849.js.map",
     "787.16022436.chunk.js.map": "/CrazyCarta/static/js/787.16022436.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9675bd54.css",
-    "static/js/main.1881b891.js"
+    "static/js/main.0a4bf849.js"
   ]
 }
